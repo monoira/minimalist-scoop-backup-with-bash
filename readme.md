@@ -1,6 +1,6 @@
 # scoop backup with bash => Minimalist Backup.
 
-## requirements
+## Requirements
 - Be on any Microsoft Windows that has Bash or Git Bash installed.
 
 ## How to backup
