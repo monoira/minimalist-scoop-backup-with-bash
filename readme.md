@@ -8,7 +8,7 @@
 - open this repusitory with Bash or Git Bash
 - then type this inside:
 ```bash
-bash ./backup-scoop.sh
+sh ./backup-scoop.sh
 ```
 - then bash will echo
 ```bash
