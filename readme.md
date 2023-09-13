@@ -4,6 +4,7 @@
 - Be on any Microsoft Windows that has Bash or Git Bash installed.
 
 ## How to backup
+- clone this repository
 - open this repusitory with Bash or Git Bash
 - then type this inside:
 ```bash
