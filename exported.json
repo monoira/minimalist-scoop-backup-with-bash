@@ -1,0 +1,119 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": {
+                "value": "\/Date(1694449632000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Monday, September 11, 2023 8:27:12 PM"
+            },
+            "Manifests": 1889
+        },
+        {
+            "Name": "games",
+            "Source": "https://github.com/Calinou/scoop-games",
+            "Updated": {
+                "value": "\/Date(1694449830000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Monday, September 11, 2023 8:30:30 PM"
+            },
+            "Manifests": 292
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main.git",
+            "Updated": {
+                "value": "\/Date(1694449675000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Monday, September 11, 2023 8:27:55 PM"
+            },
+            "Manifests": 1246
+        },
+        {
+            "Name": "nonportable",
+            "Source": "https://github.com/ScoopInstaller/Nonportable",
+            "Updated": {
+                "value": "\/Date(1694450305000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Monday, September 11, 2023 8:38:25 PM"
+            },
+            "Manifests": 127
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": {
+                "value": "\/Date(1694450082000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Monday, September 11, 2023 8:34:42 PM"
+            },
+            "Manifests": 430
+        }
+    ],
+    "apps": [
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "7zip",
+            "Version": "23.01",
+            "Updated": "\/Date(1693846296030)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "ccleaner",
+            "Version": "6.15.10623",
+            "Updated": "\/Date(1693852129272)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "dark",
+            "Version": "3.11.2",
+            "Updated": "\/Date(1693852180940)\/"
+        },
+        {
+            "Info": "",
+            "Source": "games",
+            "Name": "epic-games-launcher",
+            "Version": "15.7.0",
+            "Updated": "\/Date(1693852110000)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "opera",
+            "Version": "99.0.4788.9",
+            "Updated": "\/Date(1693839499806)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "powertoys",
+            "Version": "0.73.0",
+            "Updated": "\/Date(1693852293327)\/"
+        },
+        {
+            "Info": "",
+            "Source": "versions",
+            "Name": "steam",
+            "Version": "nightly-20230904",
+            "Updated": "\/Date(1693851949291)\/"
+        },
+        {
+            "Info": "",
+            "Source": "nonportable",
+            "Name": "virtualbox-np",
+            "Version": "7.0.10",
+            "Updated": "\/Date(1693846962256)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "zoom",
+            "Version": "5.15.11.21032",
+            "Updated": "\/Date(1693852163977)\/"
+        }
+    ]
+}
