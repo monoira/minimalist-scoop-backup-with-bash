@@ -1,11 +1,11 @@
 # scoop backup with bash => Minimalist Backup.
 
 ## Requirements
-- Be on any Microsoft Windows that has Bash or Git Bash installed.
+- Be on any Microsoft Windows computer that has Bash or Git Bash installed.
 
 ## How to backup
 - clone this repository
-- open this repusitory with Bash or Git Bash
+- open this repository with Bash or Git Bash
 - then type this inside:
 ```bash
 sh ./backup-scoop.sh
