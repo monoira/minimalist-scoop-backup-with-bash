@@ -2,7 +2,7 @@
 
 output_file="exported.json"
 
-# runs the scoop export command and store the output in the JSON file
+# runs the scoop export command and stores the output in the JSON file
 # if there is already content inside output_file, content will be overwritten.
 scoop export >"$output_file"
 
